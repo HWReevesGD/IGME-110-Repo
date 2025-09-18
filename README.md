@@ -1,38 +1,19 @@
+#Hudson's IGME 110 Repo
+## GO TIGERS!
+---
+**Favorite Letters in Alphabetical Order**
+1. A
+2. G
+3. Q
+4. Y
 
-# About Markdown
-
-## 1. History
-- https://en.wikipedia.org/wiki/Markdown
-- [Wikipedia - Markdown](https://en.wikipedia.org/wiki/Markdown)
-
-## II. Uses
-- Documentation for software projects on GitHub
-- Lecture notes for awesome classes (like this one!)
-- "Marking up" message text in Discord & Slack
-- Documents about anything, for anyone!
-
-## III. Syntax
-How do I make:
-- emoji
-- clickable links
-- bulleted lists
-  - nested lists
-  - text effects such as:
-  - **bold text**
-  - *italic text*
-  - and code blocks
-  - horizontal rules
-  - links to images
-  - and display images in a markdown document?
+**Foods**
+- Pizza
+- Tacos
+- Burgers
+- Chicken Parmesean
 
 ---
-
-## IV. Other
-```
-const PI = 3.14159
-let dumb = true;
-```
-![Dopey Smurf](dopey.webp)
- :joy:
- 
-`const PI = 3.14159;`
+Info About [RIT](rit.edu)
+rit.edu
+![RIT Tiger](https://www.rit.edu/brandportal/sites/rit.edu.brandportal/files/2022-10/RIT-00071A_RGB_whiteTM.jpg)
