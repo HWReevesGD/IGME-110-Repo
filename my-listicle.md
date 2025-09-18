@@ -1,7 +1,7 @@
 # Games
 - 
 ## Playstation Exclusives
-1. ## [The Last of Us (2013)](https://en.wikipedia.org/wiki/The_Last_of_Us)##
+1. ## [The Last of Us (2013)](https://en.wikipedia.org/wiki/The_Last_of_Us) ##
 2. [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding)
 3. [God of War](https://en.wikipedia.org/wiki/God_of_War_(2018_video_game))
 4. [Astro Bot](https://en.wikipedia.org/wiki/Astro_Bot)
